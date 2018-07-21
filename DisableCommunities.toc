@@ -1,0 +1,6 @@
+## Interface: 80000
+## Title: DisableCommunities
+## Notes: Disables the Communities window added with BFA
+## Author: skylerh15
+## Version: 1.0
+DisableCommunities.lua
